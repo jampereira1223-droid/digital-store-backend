@@ -134,4 +134,4 @@ backend/
 - Camile Araújo Alexandre
 - Jamyle Pereira da Silva
 
-Projeto desenvolvido para a formação em desenvolvimento Back-end do Geração Tech.
+Projeto desenvolvido em equipe por Mile e Jamyle em 2026.
